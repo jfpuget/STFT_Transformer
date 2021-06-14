@@ -5,11 +5,16 @@ The STFT Transformer is a new way to use Transformers similar to Vision Transfor
 
 The code is provided as is, it has not been rewritten.  Given competitions are done in a hurry, code may not meet usual open source standard.
 
-The code assumes this dircetory structure:
+The code assumes this directory structure:
+
 <base_dir>/code
+
 <base_dir>/input
+
 <base_dir>/input/freefield1010
+
 <base_dir>/checkpoints
+
 <base_dir>/data
 
 Code has to be run in the code directory.  Competition data has to be downloaded in the input drieectory.  freefield1010 data must also be downloaded in the freefield1010 directory. data_final.py should be run first. It reads audio files from input and store the relevant par tin data directory as numpy files.
