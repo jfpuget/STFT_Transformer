@@ -21,4 +21,4 @@ Code has to be run in the code directory.  Competition data has to be downloaded
 
 Then stft_transformer_final.py can be run to train one fold model.  During the competition I ran 5 folds, by editing the FOLD global variable in the script (I know, this is sub standard).
 
-Once all 5 models are trained one can upload the weights to a kaggle dataset and use the submission notebook (to be shared soon) I used.  This should get a score worth the 15th rank in the competition.  Achieving this rank with a single model is significant, as all top teams used an ensemble of models.
+Once all 5 models are trained one can upload the weights to a kaggle dataset and [use the submission notebook](https://www.kaggle.com/cpmpml/stft-transformer-infer?scriptVersionId=65743541) I used.  This should get a score worth the 15th rank in the competition.  Achieving this rank with a single model is significant, as all top teams used an ensemble of models.
