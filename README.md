@@ -1,4 +1,4 @@
-# STFT_Transformer
+# STFT Transformer
 Code for STFT Transformer used in BirdCLEF 2021 competition.
 
 The STFT Transformer is a new way to use Transformers similar to Vision Transformers on audio data.  It has been developed for the [BirdCLEF 2021 competition hosted on Kaggle](https://www.kaggle.com/c/birdclef-2021).  The pdf document gives more context.  It has been submitted to the BIRDCLEF 2021 workshop.
